@@ -1,6 +1,6 @@
 {
   "readableLineLength": false,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "showIndentGuide": true,
   "vimMode": false
 }

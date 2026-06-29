@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/devops/mac.md",
+                "file": "notes/backend/nodeJs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mac"
+              "title": "nodeJs"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f5686d79941646e8",
@@ -198,12 +197,12 @@
   },
   "active": "64a90ce63f546504",
   "lastOpenFiles": [
-    "codes/snippets/clipboard.md",
     "notes/devops/mac.md",
+    "notes/backend/nodeJs.md",
+    "codes/snippets/clipboard.md",
     "notes/mac",
     "inbox/README.md",
     "notes/frontend/scss.md",
-    "notes/backend/nodeJs.md",
     "notes/algorithms/quick-sort.md",
     "scripts/backup.sh.md",
     "scripts",

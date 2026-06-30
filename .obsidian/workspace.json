@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/backend/nodeJs.md",
+                "file": "notes/devops/nginx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nodeJs"
+              "title": "nginx"
             }
           }
         ]
@@ -198,6 +198,7 @@
   "active": "64a90ce63f546504",
   "lastOpenFiles": [
     "notes/devops/mac.md",
+    "notes/devops/nginx.md",
     "notes/backend/nodeJs.md",
     "codes/snippets/clipboard.md",
     "notes/mac",

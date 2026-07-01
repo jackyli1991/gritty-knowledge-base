@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3382a3b8ad9c7d53",
+        "id": "664fe5488b1e65dc",
         "type": "tabs",
         "children": [
           {
-            "id": "64a90ce63f546504",
+            "id": "c7caa4ca77fca8e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/devops/nginx.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "nginx"
+              "title": "新标签页"
             }
           }
         ]
@@ -155,12 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "notes/devops/docker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "docker 的大纲"
             }
           },
           {
@@ -168,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "base1.base"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
@@ -190,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 546.5
+    "width": 520.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,18 +201,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64a90ce63f546504",
+  "active": "839a7107c2c43932",
   "lastOpenFiles": [
-    "notes/backend/nodeJs.md",
-    "notes/devops/nginx.md",
+    "scripts/backup.sh.md",
     "notes/devops/docker.md",
     "notes/devops/mac.md",
+    "notes/devops/nginx.md",
+    "notes/backend/nodeJs.md",
     "codes/snippets/clipboard.md",
     "notes/mac",
     "inbox/README.md",
     "notes/frontend/scss.md",
     "notes/algorithms/quick-sort.md",
-    "scripts/backup.sh.md",
     "scripts",
     "resources/books/白鹿原.md",
     "resources/books",

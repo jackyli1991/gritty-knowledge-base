@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "454caaf7cbcc0450",
+        "id": "25bfea0f3122b680",
         "type": "tabs",
         "children": [
           {
-            "id": "41502cd971f86cfc",
+            "id": "69e83959089f9d3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/ai/claude-code.md",
+                "file": "notes/frontend/pnpm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "claude-code"
+              "title": "pnpm"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/ai/claude-code.md",
+                "file": "notes/frontend/pnpm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "claude-code 的大纲"
+              "title": "pnpm 的大纲"
             }
           },
           {
@@ -189,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 496.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,33 +207,33 @@
   },
   "active": "839a7107c2c43932",
   "lastOpenFiles": [
-    "notes/ai/tokens.md",
+    "notes/backend/nodeJs.md",
+    "notes/frontend/pnpm.md",
+    "notes/devops/mac.md",
     "notes/ai/claude-code.md",
     "resources/lessons/math/一年级.md",
-    "notes/ai",
-    "resources/lessons/chinese/一年级.md",
-    "notes/devops/git.md",
     "notes/frontend/javascript.md",
-    "resources/lessons/english",
+    "resources/lessons/chinese/一年级.md",
     "resources/lessons/math",
     "resources/lessons/chinese",
     "resources/lessons",
-    "notes/frontend/scss.md",
-    "notes/backend/nodeJs.md",
-    "notes/database/mySql.md",
+    "notes/ai",
     "notes/devops/nginx.md",
-    "notes/devops/mac.md",
-    "notes/algorithms/quick-sort.md",
-    "notes/devops/docker.md",
+    "notes/devops/git.md",
+    "notes/frontend/scss.md",
     "scripts/backup.sh.md",
+    "notes/devops/docker.md",
     "codes/snippets/clipboard.md",
     "notes/mac",
     "inbox/README.md",
+    "notes/algorithms/quick-sort.md",
     "scripts",
     "resources/books/白鹿原.md",
     "resources/books",
     "resources",
+    "notes/database/mySql.md",
     "notes/frontend",
+    "notes/devops",
     "codes/templates/axios.md",
     "assets/images/example.jpg",
     "欢迎.md",

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "25bfea0f3122b680",
+        "id": "1c6f7f41da09fccb",
         "type": "tabs",
         "children": [
           {
-            "id": "69e83959089f9d3c",
+            "id": "078fcb5374ea8ace",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/frontend/pnpm.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "pnpm"
+              "title": "新标签页"
             }
           }
         ]
@@ -155,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/frontend/pnpm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "pnpm 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -189,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 496.5
+    "width": 377.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,36 +202,38 @@
   },
   "active": "839a7107c2c43932",
   "lastOpenFiles": [
-    "notes/backend/nodeJs.md",
-    "notes/frontend/pnpm.md",
+    "notes/devops/oxc.md",
+    "notes/devops/nginx.md",
+    "notes/devops/git.md",
+    "notes/devops/pnpm.md",
+    "notes/frontend/oxc.md",
+    "notes/devops/docker.md",
     "notes/devops/mac.md",
+    "scripts/backup.sh.md",
+    "inbox/README.md",
+    "codes/snippets/clipboard.md",
+    "assets/images/example.jpg",
+    "codes/templates/axios.md",
+    "notes/algorithms/quick-sort.md",
+    "notes/database/mySql.md",
+    "notes/frontend/scss.md",
+    "notes/frontend/javascript.md",
+    "欢迎.md",
+    "notes/backend/nodeJs.md",
     "notes/ai/claude-code.md",
     "resources/lessons/math/一年级.md",
-    "notes/frontend/javascript.md",
     "resources/lessons/chinese/一年级.md",
     "resources/lessons/math",
     "resources/lessons/chinese",
     "resources/lessons",
     "notes/ai",
-    "notes/devops/nginx.md",
-    "notes/devops/git.md",
-    "notes/frontend/scss.md",
-    "scripts/backup.sh.md",
-    "notes/devops/docker.md",
-    "codes/snippets/clipboard.md",
     "notes/mac",
-    "inbox/README.md",
-    "notes/algorithms/quick-sort.md",
     "scripts",
     "resources/books/白鹿原.md",
     "resources/books",
     "resources",
-    "notes/database/mySql.md",
     "notes/frontend",
     "notes/devops",
-    "codes/templates/axios.md",
-    "assets/images/example.jpg",
-    "欢迎.md",
     "test.md",
     "未命名.md",
     "2026-06-26.md",

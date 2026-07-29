@@ -2,7 +2,7 @@
 
 Zsh配置管理框架。
 
-```Zsh
+```Shell
 brew install zsh # 安装
 
 cd ~/.oh-my-zsh # 目录
@@ -21,7 +21,7 @@ source ~/.zshrc # 重启
 
 mac包管理器。
 
-```Zsh
+``` Shell
 brew install [--cask] [formula]
 brew uninstall [formula]
 brew list
@@ -40,23 +40,9 @@ brew services restart <服务名>
 brew services cleanup
 ```
 
-
-## git
-
-#### SSH-Key
-
-```Zsh
-ssh-keygen -t rsa -C '2008042226@163.com' # 生成公钥和私钥
-
-cd ~/.ssh # 存放目录
-cat id_rsa.pub # 复制公钥，添加到https://github.com/settings/keys
-
-ssh -T git@github.com # 验证
-```
-
 #### language
 
-```Zsh
+```Shell
 # vim ～/.zshrc
 alias git='LANG=en_US.UTF-8 git' # english
 alias git='LANG=zh_CN.UTF-8 git' # chinese

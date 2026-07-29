@@ -1,4 +1,6 @@
 {
   "baseFontSize": 14,
-  "theme": "system"
+  "theme": "system",
+  "monospaceFontFamily": "Consolas",
+  "textFontFamily": "Arial"
 }

@@ -1,5 +1,5 @@
 
-```Zsh
+```Shell
 brew install nginx
 brew services start nginx
 

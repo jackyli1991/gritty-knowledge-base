@@ -9,17 +9,16 @@
 
 ## install
 
-```Zsh
+```Shell
 # Node.js > v16.13.0
 corepack enable pnpm
 
 corepack use pnpm@latest-10 # 在项目package.json中添加`packageManager`字段，固定pnpm版本
 ```
 
-
 ## 
 
-```Zsh
+```Shell
 alias pn=pnpm # .zshrc，设置别名
 
 pnpm --dir <path> <command> # 在path目录下运行命令，而不是当前工作目录

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c6f7f41da09fccb",
+        "id": "4e94bee814065730",
         "type": "tabs",
         "children": [
           {
-            "id": "078fcb5374ea8ace",
+            "id": "433831a353038e44",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 221.5
   },
   "right": {
     "id": "f5686d79941646e8",
@@ -200,16 +200,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "078fcb5374ea8ace",
+  "active": "839a7107c2c43932",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "notes/devops/oxc.md",
     "notes/devops/nginx.md",
     "notes/devops/git.md",
+    "().md",
+    "notes/devops/mac.md",
+    "conflict-files-obsidian-git.md",
     "notes/devops/pnpm.md",
     "notes/frontend/oxc.md",
     "notes/devops/docker.md",
-    "notes/devops/mac.md",
     "scripts/backup.sh.md",
     "inbox/README.md",
     "codes/snippets/clipboard.md",

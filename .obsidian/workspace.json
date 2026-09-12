@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/git.md",
+                "file": "notes/npm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git"
+              "title": "npm"
             }
           }
         ]
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/git.md",
+                "file": "notes/npm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,11 +209,17 @@
   },
   "active": "839a7107c2c43932",
   "lastOpenFiles": [
-    "notes/docker.md",
+    "notes/oxc.md",
+    "欢迎.md",
+    "notes/npm.md",
+    "notes/nodeJs.md",
+    "notes/nginx.md",
+    "notes/mac.md",
+    "notes/git.md",
     "notes/javascript.md",
+    "notes/docker.md",
     "inbox/README.md",
     "assets/images/example.jpg",
-    "notes/nodeJs.md",
     "notes/ai/claude-code.md",
     "notes/algorithms/quick-sort.md",
     "notes/database/mySql.md",
@@ -223,14 +229,8 @@
     "resources/lessons/math/一年级.md",
     "resources/lessons/chinese/一年级.md",
     "resources/books/白鹿原.md",
-    "notes/git.md",
-    "notes/mac.md",
-    "notes/nginx.md",
-    "notes/npm.md",
-    "notes/oxc.md",
     "notes/devops/pnpm.md",
     "Pasted image 20260814142245.png",
-    "欢迎.md",
     "().md",
     "conflict-files-obsidian-git.md",
     "notes/frontend/oxc.md",

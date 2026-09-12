@@ -1,6 +1,0 @@
-## multi-theme
-
-```scss
-
-```
-

@@ -1,0 +1,28 @@
+---
+path: cursor.md
+tags:
+  - simplemindmap
+---
+> 请勿修改除YAML外的任何信息
+# metadata
+```metadata
+N4IgNghgng9grgFxALnDA5gSwMYTAZQQCc5sE4iBTEAGhCJhiWVABMIEIVQFKAPZiAA8ABwB8gTgtAQUGBOhyEB6cbRD8REAHasUxOJTpxMW1NgCcADgisAZgCMADAFoArCYAsTh64DMd1w7MAjFYA7A6sTjZertiUrCZW2E7KRDgAFgAq/Mw6eiCYAM4AgmSYAG7UyFZ4+bmYALboALIQItwAvnTYcPkIMHWZAgDqhgipKMEAbHRWVJQAcjCslOmz+SgA2gC6HSDYqZhgrFTqG2wcXCwgvAIowuKAMXKA5X6yCkr6hrdewRABwQGUHjsrGBnlYACYPBAwaxsA5sNgAmYIlYrE4AvFlKoNEYcnQUnsBtkSLUiiVyigqmAajs9gcjpQTsgth0zpxuFcsrdRGIni9FGJlAYjCBEUiwZRoQ4vGCbKFXDYUQ4TBMIKE7GCAk40WC7LZKMFMXw1JptMS8WlCabdHQCsUEGUKpTqZ19odjhttjRWRceJzUNzeXJ+YKPqhXGCrPEzGZWHCAjYTJ4rBMJg4bBMnKnWPHXPEnGYTBGvIbjTizfQLX7cXlSfbyZVqpQaa76Yz1t72ddBNzAGBKgHpTQDccoAMjNeAvewpMcQ1qJscOwrj8rkCHhsNjBfniEABAQgrjsBa4dCxJuQ1fxGSr5dtZMdjebdPdTI7ly7XPE/eHo5DwusJmVX0oBwdxMDwFziNMvlCYIl2wVgvBMSgVVMEtsStXJz0tU8r1rB0KTvF0HwZD02k9Z9fRuf130HEdg3HW5Vy8FxYMA1h3FjeUzDBNNEggNMd2CECzAmKIIRQk8z0rCjq2vOtbypJsCLdIimW2VSdlGSg6gqX06hESBeFubBIHyfIcACYtOhgdQrEwdB2h2UpMEoAB3TsiA0fIrBgIg6nZfJcDASgAA0UACOh/LwSgAE1QvC1JKAgIgUDsPEmA4CoUqudz1HyfTgpQTwTC8OhiA8vKYuQIDXDobzbMwdQQuQTLaqwdQKsyi4wpAGxks6XqQCMLqKkK4qQCsAqAlcHYenSvyAoqLq+AK3NRqgCbqpAfIlsq3MNvyNbKsmtpjqAA
+```
+# svgdata
+![[.smm-embed-image-files/cursor.svg]]
+> updateAt: 2026-10-17 17:31:17
+# linkdata
+# textdata
+根节点 ^c98adfb0-5945-4304-81f7-d5b34ced9fc5
+
+二级节点 ^37a171e5-0ddd-4d25-a2dc-cc185bff519f
+
+二级节点 ^18852e2d-32b7-4bff-96a7-02155120fbe7
+
+二级节点 ^42f9f88d-c1b9-4f66-b656-d1b49f5892f3
+
+分支主题 ^9d921f5b-cc44-4815-bb24-9fae51a4089a
+
+分支主题 ^df99637e-1a95-44d9-b377-748cd39e6ac9
+
+分支主题 ^bb359cde-d45d-4b82-bc5a-b1a795863425

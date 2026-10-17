@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "289f9ec7f04510b2",
+        "id": "eac1d9c9ee81edf0",
         "type": "tabs",
         "children": [
           {
-            "id": "8a9cec48b08c1692",
+            "id": "cbbbefe23da62305",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "smm",
               "state": {
-                "file": "notes/npm.md",
-                "mode": "source",
-                "source": false
+                "file": "cursor.md"
               },
-              "icon": "lucide-file",
-              "title": "npm"
+              "icon": "smm-icon",
+              "title": "cursor"
             }
           }
         ]
@@ -80,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 200
   },
   "right": {
     "id": "f5686d79941646e8",
@@ -157,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/npm.md",
+                "file": "cursor.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "cursor.md"
+              },
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
@@ -204,20 +204,24 @@
       "bases:新建数据库": false,
       "workspaces:管理工作区布局": false,
       "publish:发布更改": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "simple-mind-map:新建思维导图": false
     }
   },
-  "active": "839a7107c2c43932",
+  "active": "cbbbefe23da62305",
   "lastOpenFiles": [
-    "notes/oxc.md",
-    "欢迎.md",
-    "notes/npm.md",
-    "notes/nodeJs.md",
+    "cursor.md",
     "notes/nginx.md",
     "notes/mac.md",
+    "notes/docker.md",
+    "欢迎.md",
     "notes/git.md",
     "notes/javascript.md",
-    "notes/docker.md",
+    "notes/oxc.md",
+    "notes/npm.md",
+    "notes/nodeJs.md",
+    "未命名.md",
+    "未命名.canvas",
     "inbox/README.md",
     "assets/images/example.jpg",
     "notes/ai/claude-code.md",
@@ -235,7 +239,6 @@
     "conflict-files-obsidian-git.md",
     "notes/frontend/oxc.md",
     "codes/snippets/clipboard.md",
-    "codes/templates/axios.md",
     "resources/lessons/math",
     "resources/lessons/chinese",
     "resources/lessons",
@@ -245,7 +248,6 @@
     "resources/books",
     "resources",
     "notes/frontend",
-    "notes/devops",
-    "未命名.canvas"
+    "notes/devops"
   ]
 }
